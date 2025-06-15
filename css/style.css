@@ -10,6 +10,9 @@ div img {
    background-position: center;
 
 }
+div a{
+    text-decoration-line: none;
+}
 
 p a {
     color: rgb(212, 0, 255);
